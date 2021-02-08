@@ -1,7 +1,7 @@
 import { gql } from 'apollo-server-express';
 
 export const HealthTypeDef = gql`
-	type Query {
+	extend type Query {
 		health: String!
 	}
 `;

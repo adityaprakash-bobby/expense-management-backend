@@ -1,5 +1,5 @@
 export const HealthResolver = {
 	Query: {
-		health: (): string => 'Ok',
+		health: () => 'Ok',
 	},
 };
