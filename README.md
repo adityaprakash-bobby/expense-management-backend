@@ -1,8 +1,7 @@
-### EXPENSE MANAGEMENT APP
+### EXPENSE MANAGEMENT BACKEND
 
 ## stack
 
 - Nodejs
 - Graphql
 - Mongodb
-- Mongoose
